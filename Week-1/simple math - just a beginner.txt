@@ -1,0 +1,10 @@
+#include <iostream>
+int x=5;
+int y=10;
+int z=13;
+
+int main() {
+    std::cout <<x+y-z+x*y<< '\n';
+    
+    return 0;
+}
